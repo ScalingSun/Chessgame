@@ -1,0 +1,49 @@
+[Time: 12:30:58] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:31:00] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:31:15] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:31:17] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:43:12] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:43:16] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:45:06] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:45:11] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:47:02] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:47:05] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:47:46] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:48:08] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:49:17] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:49:19] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:49:25] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 12:53:57] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:54:00] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:54:02] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:54:05] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:29:02] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:29:11] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:29:15] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:29:26] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:30:11] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:30:13] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:31:20] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:31:25] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:31:27] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:31:30] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:34:51] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:34:54] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:35:05] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:35:07] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:36:08] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:36:16] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:36:20] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:36:31] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:37:52] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:37:57] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:38:06] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:38:09] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:39:17] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:39:22] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:39:31] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:39:43] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:22:12] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 14:25:20] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:25:32] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 14:25:50] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}

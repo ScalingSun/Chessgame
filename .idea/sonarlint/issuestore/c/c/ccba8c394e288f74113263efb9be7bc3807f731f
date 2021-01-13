@@ -1,0 +1,13 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(â½î×8à…Äİæ.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(‡Š‡8 ¾Éİæ.
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ŒÅ³ù
+z	java:S131C"YComplete cases by adding the missing enum constants or add a default case to this switch.(ì¬éÃúÿÿÿÿ8…¢èì.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥ÿÕ°
+J
+java:S1128".Remove this unused import 'Enums.messageType'.(¹™åI8ßÒã‰ç.
+P
+java:S1128".Remove this unused import 'Enums.PlayerColor'.(ëÉ¨ßøÿÿÿÿ8ßÒã‰ç.
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Ó·ªªûÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(¹øáùşÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Ã‡³Àøÿÿÿÿ

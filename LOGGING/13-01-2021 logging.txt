@@ -1,0 +1,19 @@
+[Time: 09:43:28] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 09:43:40] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 09:43:49] [From: onText()] {"type":"REGISTER","message":"test","playerNr":5}
+[Time: 09:43:51] [From: onText()] {"type":"REGISTER","message":"test","playerNr":5}
+[Time: 09:43:57] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 09:44:00] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":4}","playerNr":1}
+[Time: 09:44:02] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 09:44:04] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":4,\"newX\":4,\"newY\":3}","playerNr":1}
+[Time: 09:44:09] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":3,\"newX\":3,\"newY\":4}","playerNr":0}
+[Time: 09:44:20] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":6,\"newX\":2,\"newY\":5}","playerNr":1}
+[Time: 09:44:21] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":4,\"newX\":2,\"newY\":5}","playerNr":0}
+[Time: 09:44:38] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":2,\"newY\":5}","playerNr":1}
+[Time: 09:44:43] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":3,\"newY\":4}","playerNr":0}
+[Time: 09:44:51] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":7,\"newX\":6,\"newY\":3}","playerNr":1}
+[Time: 09:44:56] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":0,\"newX\":2,\"newY\":2}","playerNr":0}
+[Time: 09:45:02] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":7,\"newX\":3,\"newY\":6}","playerNr":1}
+[Time: 09:45:05] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":2,\"newX\":4,\"newY\":1}","playerNr":0}
+[Time: 09:45:07] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":7,\"newX\":2,\"newY\":7}","playerNr":1}
+[Time: 09:45:13] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":1,\"newX\":5,\"newY\":3}","playerNr":0}

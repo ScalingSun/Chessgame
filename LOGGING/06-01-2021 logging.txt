@@ -1,0 +1,256 @@
+[Time: 12:05:08] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:05:11] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:05:15] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:18] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:22] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 12:05:29] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 12:05:36] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":1,\"newX\":5,\"newY\":3}","playerNr":0}
+[Time: 12:05:42] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":4,\"newY\":5}","playerNr":1}
+[Time: 12:05:49] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":6,\"newY\":3}","playerNr":0}
+[Time: 12:06:26] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":7,\"newX\":5,\"newY\":5}","playerNr":1}
+[Time: 12:06:34] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 12:06:36] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":5}","playerNr":1}
+[Time: 12:06:39] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":3,\"newY\":2}","playerNr":0}
+[Time: 12:06:39] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 12:06:51] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":1,\"newX\":2,\"newY\":3}","playerNr":0}
+[Time: 12:09:37] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:09:43] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:09:46] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:09:48] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:09:51] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 12:09:56] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 12:10:46] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:10:48] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:10:49] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:10:55] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:11:03] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 12:11:16] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:11:20] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:11:24] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:11:25] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:11:35] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 12:11:41] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 12:12:45] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 12:14:14] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:14:18] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:14:21] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:14:23] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:14:33] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 12:15:40] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 12:17:52] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 12:18:30] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":4,\"newY\":5}","playerNr":1}
+[Time: 12:18:44] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":6,\"newY\":3}","playerNr":0}
+[Time: 12:19:03] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 12:19:21] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:19:25] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:20:23] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:20:26] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:20:32] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 12:20:35] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 12:21:30] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 12:21:53] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":4}","playerNr":1}
+[Time: 12:23:29] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 12:24:35] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:24:38] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:24:44] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:24:46] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:25:00] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 12:25:02] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 12:25:09] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":3,\"newY\":6}","playerNr":0}
+[Time: 12:25:18] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":3,\"newY\":6}","playerNr":1}
+[Time: 12:25:25] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 12:25:33] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":7,\"newX\":2,\"newY\":4}","playerNr":1}
+[Time: 12:25:43] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":0,\"newX\":6,\"newY\":4}","playerNr":0}
+[Time: 12:25:46] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":7,\"newX\":4,\"newY\":7}","playerNr":1}
+[Time: 12:26:05] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 12:26:41] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:26:44] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:27:04] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:27:07] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:27:20] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 12:27:27] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 12:29:06] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 12:29:17] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":4}","playerNr":1}
+[Time: 12:30:10] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":1,\"newX\":2,\"newY\":3}","playerNr":0}
+[Time: 12:35:10] [From: onError()] client with Session ID 2 got the error: org.eclipse.jetty.websocket.api.CloseException: java.util.concurrent.TimeoutException: Idle timeout expired: 300000/300000 ms
+[Time: 12:35:10] [From: onClose()] client with Session ID 2 disconnected.
+[Time: 12:35:10] [From: onError()] client with Session ID 1 got the error: org.eclipse.jetty.websocket.api.CloseException: java.util.concurrent.TimeoutException: Idle timeout expired: 300078/300000 ms
+[Time: 12:35:10] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 12:43:57] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:44:05] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:45:24] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:45:27] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:45:32] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 12:45:45] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 12:45:57] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":5,\"newY\":2}","playerNr":0}
+[Time: 12:46:00] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":6,\"newX\":5,\"newY\":5}","playerNr":1}
+[Time: 12:46:04] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":7,\"newY\":2}","playerNr":0}
+[Time: 12:46:04] [From: onError()] client with Session ID 2 got the error: java.lang.NullPointerException
+[Time: 12:46:20] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":1,\"newX\":6,\"newY\":2}","playerNr":0}
+[Time: 12:46:25] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":6,\"newX\":5,\"newY\":4}","playerNr":1}
+[Time: 12:46:25] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 12:46:34] [From: onClose()] client with Session ID 2 disconnected.
+[Time: 12:49:01] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:49:05] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:49:06] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:49:09] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:49:14] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 12:49:16] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 12:57:18] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:57:22] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:57:25] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:57:26] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:57:39] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 12:57:44] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 12:58:42] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":3,\"newX\":4,\"newY\":4}","playerNr":0}
+[Time: 12:58:51] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":5}","playerNr":1}
+[Time: 12:59:02] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":4,\"newX\":3,\"newY\":5}","playerNr":0}
+[Time: 12:59:18] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 12:59:30] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":5,\"newX\":3,\"newY\":6}","playerNr":0}
+[Time: 12:59:38] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":7,\"newX\":3,\"newY\":6}","playerNr":1}
+[Time: 13:03:05] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":5,\"newY\":2}","playerNr":0}
+[Time: 13:03:13] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":4,\"newX\":1,\"newY\":1}","playerNr":1}
+[Time: 13:03:18] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":0,\"newX\":1,\"newY\":1}","playerNr":0}
+[Time: 13:03:27] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":7,\"newX\":0,\"newY\":2}","playerNr":1}
+[Time: 13:03:28] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":1,\"newX\":0,\"newY\":2}","playerNr":0}
+[Time: 13:08:28] [From: onClose()] client with Session ID 2 disconnected.
+[Time: 13:08:28] [From: onError()] client with Session ID 1 got the error: org.eclipse.jetty.websocket.api.CloseException: java.util.concurrent.TimeoutException: Idle timeout expired: 300001/300000 ms
+[Time: 13:08:28] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 13:50:35] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:50:39] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:50:41] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:50:42] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:50:46] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 13:50:47] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 13:50:49] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":3,\"newX\":4,\"newY\":4}","playerNr":0}
+[Time: 13:50:51] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":5}","playerNr":1}
+[Time: 13:50:52] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":4,\"newX\":4,\"newY\":5}","playerNr":0}
+[Time: 13:50:57] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":6,\"newX\":4,\"newY\":5}","playerNr":1}
+[Time: 13:51:02] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":3,\"newY\":5}","playerNr":0}
+[Time: 13:51:09] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":6,\"newX\":3,\"newY\":5}","playerNr":1}
+[Time: 13:51:18] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":0,\"newX\":6,\"newY\":4}","playerNr":0}
+[Time: 13:51:20] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":4,\"newY\":6}","playerNr":1}
+[Time: 13:51:24] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":4,\"newX\":4,\"newY\":6}","playerNr":0}
+[Time: 13:51:40] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:51:42] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:51:47] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:51:48] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:51:52] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 13:51:55] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":4}","playerNr":1}
+[Time: 13:51:57] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":1,\"newX\":5,\"newY\":2}","playerNr":0}
+[Time: 13:51:59] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":4,\"newX\":4,\"newY\":3}","playerNr":1}
+[Time: 13:52:01] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":2,\"newX\":5,\"newY\":3}","playerNr":0}
+[Time: 13:52:02] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":3,\"newX\":4,\"newY\":2}","playerNr":1}
+[Time: 13:52:10] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":4,\"newY\":2}","playerNr":0}
+[Time: 13:52:13] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":5}","playerNr":1}
+[Time: 13:52:16] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":2,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 13:52:24] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":7,\"newX\":3,\"newY\":6}","playerNr":1}
+[Time: 13:52:26] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":3,\"newY\":6}","playerNr":0}
+[Time: 13:52:37] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":3,\"newY\":6}","playerNr":1}
+[Time: 13:52:43] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":0,\"newX\":1,\"newY\":4}","playerNr":0}
+[Time: 13:52:48] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":7,\"newX\":0,\"newY\":5}","playerNr":1}
+[Time: 13:52:51] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":4,\"newX\":3,\"newY\":6}","playerNr":0}
+[Time: 13:53:06] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:53:09] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:53:14] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:53:17] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:53:24] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 13:53:26] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":7,\"newX\":5,\"newY\":5}","playerNr":1}
+[Time: 13:53:28] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 13:53:31] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":5,\"newX\":4,\"newY\":3}","playerNr":1}
+[Time: 13:53:47] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":3,\"newX\":3,\"newY\":4}","playerNr":0}
+[Time: 13:53:48] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":5}","playerNr":1}
+[Time: 13:53:56] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":4,\"newX\":4,\"newY\":5}","playerNr":0}
+[Time: 13:53:58] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":5}","playerNr":1}
+[Time: 13:54:03] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":5,\"newX\":5,\"newY\":6}","playerNr":0}
+[Time: 13:54:10] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":5,\"newY\":6}","playerNr":1}
+[Time: 13:54:18] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":0,\"newX\":3,\"newY\":2}","playerNr":0}
+[Time: 13:54:26] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":3,\"newX\":5,\"newY\":1}","playerNr":1}
+[Time: 13:54:41] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":6,\"newY\":3}","playerNr":0}
+[Time: 13:54:50] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":1,\"newX\":7,\"newY\":0}","playerNr":1}
+[Time: 13:56:09] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:56:12] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:56:14] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:56:15] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:56:19] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 13:56:21] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":7,\"newX\":2,\"newY\":5}","playerNr":1}
+[Time: 13:56:22] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":2}","playerNr":0}
+[Time: 13:56:23] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":5,\"newX\":3,\"newY\":3}","playerNr":1}
+[Time: 13:56:26] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":2,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 13:56:31] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 13:56:33] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":3,\"newX\":4,\"newY\":4}","playerNr":0}
+[Time: 13:56:34] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":5}","playerNr":1}
+[Time: 13:56:36] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":4,\"newX\":3,\"newY\":5}","playerNr":0}
+[Time: 13:56:40] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":4,\"newY\":0}","playerNr":1}
+[Time: 13:56:45] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":4,\"newY\":0}","playerNr":0}
+[Time: 14:10:10] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 14:10:13] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 14:10:16] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:10:19] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:10:22] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 14:10:24] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 14:10:26] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":3,\"newX\":4,\"newY\":4}","playerNr":0}
+[Time: 14:10:27] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 14:10:32] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":1,\"newX\":5,\"newY\":3}","playerNr":0}
+[Time: 14:15:32] [From: onClose()] client with Session ID 2 disconnected.
+[Time: 14:15:32] [From: onError()] client with Session ID 1 got the error: org.eclipse.jetty.websocket.api.CloseException: java.util.concurrent.TimeoutException: Idle timeout expired: 300001/300000 ms
+[Time: 14:15:32] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 14:18:17] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 14:18:20] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 14:18:46] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:18:58] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:19:14] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 14:19:29] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":7,\"newX\":2,\"newY\":5}","playerNr":1}
+[Time: 14:19:35] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":2}","playerNr":0}
+[Time: 14:19:37] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":5,\"newX\":3,\"newY\":3}","playerNr":1}
+[Time: 14:19:39] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":2,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 14:19:46] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 14:19:48] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":3,\"newX\":4,\"newY\":4}","playerNr":0}
+[Time: 14:20:07] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":7,\"newX\":3,\"newY\":5}","playerNr":1}
+[Time: 14:20:13] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":1,\"newX\":5,\"newY\":3}","playerNr":0}
+[Time: 14:20:27] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":5,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 14:25:27] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 14:25:27] [From: onError()] client with Session ID 2 got the error: org.eclipse.jetty.websocket.api.CloseException: java.util.concurrent.TimeoutException: Idle timeout expired: 300011/300000 ms
+[Time: 14:25:27] [From: onClose()] client with Session ID 2 disconnected.
+[Time: 15:16:30] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 15:16:33] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 15:16:37] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 15:16:40] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 15:16:43] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 15:16:45] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 15:16:47] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":3,\"newX\":4,\"newY\":4}","playerNr":0}
+[Time: 15:16:48] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 15:16:54] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":3,\"newY\":4}","playerNr":0}
+[Time: 15:16:56] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":4,\"newX\":3,\"newY\":4}","playerNr":1}
+[Time: 15:17:05] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 15:17:08] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":4,\"newX\":3,\"newY\":0}","playerNr":1}
+[Time: 15:17:10] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":0,\"newX\":1,\"newY\":4}","playerNr":0}
+[Time: 15:17:13] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":4,\"newY\":0}","playerNr":1}
+[Time: 18:29:47] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 18:29:51] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 18:29:59] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 18:30:01] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 18:30:42] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 18:30:57] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":5}","playerNr":1}
+[Time: 18:31:06] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":6,\"newY\":3}","playerNr":0}
+[Time: 18:31:11] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":7,\"newX\":6,\"newY\":3}","playerNr":1}
+[Time: 18:31:44] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":0,\"newX\":4,\"newY\":1}","playerNr":0}
+[Time: 18:31:51] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":3,\"newX\":4,\"newY\":1}","playerNr":1}
+[Time: 18:31:57] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":0,\"newX\":4,\"newY\":1}","playerNr":0}
+[Time: 18:32:24] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":6,\"newX\":0,\"newY\":4}","playerNr":1}
+[Time: 18:32:28] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":1,\"newX\":0,\"newY\":3}","playerNr":0}
+[Time: 18:32:34] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":7,\"newX\":0,\"newY\":5}","playerNr":1}
+[Time: 18:32:40] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":5,\"newY\":2}","playerNr":0}
+[Time: 18:33:23] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":7,\"newX\":2,\"newY\":5}","playerNr":1}
+[Time: 18:33:30] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":0,\"newX\":0,\"newY\":2}","playerNr":0}
+[Time: 18:33:56] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":3,\"newY\":6}","playerNr":1}
+[Time: 18:33:59] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":3,\"newX\":4,\"newY\":4}","playerNr":0}
+[Time: 18:34:02] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":6,\"newX\":5,\"newY\":5}","playerNr":1}
+[Time: 18:34:06] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":2,\"newX\":7,\"newY\":3}","playerNr":0}
+[Time: 18:34:10] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":5}","playerNr":1}
+[Time: 18:34:14] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":1,\"newX\":5,\"newY\":2}","playerNr":0}
+[Time: 18:34:18] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":7,\"newX\":7,\"newY\":5}","playerNr":1}
+[Time: 18:34:21] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":2,\"newX\":5,\"newY\":3}","playerNr":0}
+[Time: 18:34:24] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":7,\"newX\":4,\"newY\":6}","playerNr":1}
+[Time: 18:34:27] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":3,\"newX\":5,\"newY\":4}","playerNr":0}
+[Time: 18:34:46] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":7,\"newX\":4,\"newY\":7}","playerNr":1}

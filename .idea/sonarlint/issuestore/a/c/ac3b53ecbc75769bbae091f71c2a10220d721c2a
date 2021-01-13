@@ -1,0 +1,25 @@
+
+G
+java:S5411"*Use the primitive boolean expression here.(òà«ò8–´³¿ä.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¡æÎüÿÿÿÿ8«­¿ä.
+G
+java:S5411l"*Use the primitive boolean expression here.(òà«ò8–´³¿ä.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‚óÔûÿÿÿÿ8¶ƒÉåã.
+o
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 149 to the 15 allowed.(Ô¬ï:8µ¬¿ä.
+G
+java:S54114"*Use the primitive boolean expression here.(òà«ò8–´³¿ä.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‚óÔûÿÿÿÿ8¶ƒÉåã.
+Q
+java:S3740"/Provide the parametrized type for this generic.(î•ë¤ıÿÿÿÿ8µ¬¿ä.
+H
+java:S5411’"*Use the primitive boolean expression here.(òà«ò8–´³¿ä.
+G
+java:S5411G"*Use the primitive boolean expression here.(òà«ò8–´³¿ä.
+G
+java:S5411"*Use the primitive boolean expression here.(òà«ò8–´³¿ä.
+H
+java:S5411¦"*Use the primitive boolean expression here.(òà«ò8–´³¿ä.
+G
+java:S5411Z"*Use the primitive boolean expression here.(òà«ò8–´³¿ä.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ´öŠûÿÿÿÿ

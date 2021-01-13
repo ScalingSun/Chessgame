@@ -1,0 +1,11 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰˜±¼øÿÿÿÿ8¡§êâ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾–ìÊ8¡§êâ.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Àûå 8¡§êâ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Àûå 8¡§êâ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı¤êöıÿÿÿÿ8¡§êâ.
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÅÎÿÿÿÿÿ8¡§êâ.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(’ôÆà8¡§êâ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò«ÿ8¡§êâ.
+j
+java:S2095#"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¨Âû”üÿÿÿÿ8¡§êâ.

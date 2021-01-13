@@ -1,0 +1,7 @@
+
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÎu8öşÍãã.
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(´æÖ8ˆÊ‡èã.
+k	java:S116"PRename this field "Yaxis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÖG8¯‘¹ãã.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÎu8öşÍãã.
+q	java:S116"PRename this field "Xaxis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ùº×ÿÿÿÿÿ8¯‘¹ãã.

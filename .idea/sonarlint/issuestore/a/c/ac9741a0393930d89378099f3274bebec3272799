@@ -1,0 +1,25 @@
+
+i
+java:S2095>"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿ8›òá’î.
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê8ô·ãŒî.
+e
+java:S2095<"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê8›òá’î.
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿ8ô·ãŒî.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°¿¦ì8ô·ãŒî.
+q
+java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ş¿îğúÿÿÿÿ8¾ÚÌ’î.
+v
+java:S1192"YDefine a constant instead of duplicating this literal "com.mysql.cj.jdbc.Driver" 3 times.(ğ¿Éí8›òá’î.
+
+java:S1192"_Define a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/s3" 3 times.(ƒğûÓüÿÿÿÿ8›òá’î.
+
+java:S2681"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(éÆ“šûÿÿÿÿ8Ú·–î.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(°¿¦ì8›òá’î.
+r
+java:S1192"PDefine a constant instead of duplicating this literal "banaanmysql1234" 3 times.(ƒğûÓüÿÿÿÿ8›òá’î.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(°¿¦ì8Éàœ’î.
+e
+java:S2095%"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê8Áş•’î.
+j	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø˜Üå8¬ã’î.

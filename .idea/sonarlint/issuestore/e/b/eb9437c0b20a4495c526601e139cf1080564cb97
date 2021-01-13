@@ -1,0 +1,97 @@
+
+l	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸”™D8Ã¯à‘í.
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û•ôõ8Ã¯à‘í.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ú©öúÿÿÿÿ8Ã¯à‘í.
+N
+java:S1481#"1Remove this unused "WhiteBishop2" local variable.(¿¡Í¥8Ã¯à‘í.
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µºÑ˜úÿÿÿÿ8Ã¯à‘í.
+N
+java:S1481,"1Remove this unused "BlackKnight1" local variable.(Ìì“8Ã¯à‘í.
+`
+java:S1854/">Remove this useless assignment to local variable "BlackQueen".(µºÑ˜úÿÿÿÿ8Ã¯à‘í.
+P
+java:S1481.".Remove this unused "BlackKing" local variable.(˜½™ñúÿÿÿÿ8Ã¯à‘í.
+Z
+java:S1854("8Remove this useless assignment to local variable "pawn".(î›¼Âýÿÿÿÿ8Ã¯à‘í.
+l	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„8Ã¯à‘í.
+L
+java:S1481%"/Remove this unused "WhiteRook2" local variable.(šÂµ‹8Ã¯à‘í.
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÌÇ¤ýÿÿÿÿ8Ã¯à‘í.
+r	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÖÈëýÿÿÿÿ8’Ðäã.
+K
+java:S1481(")Remove this unused "pawn" local variable.(î›¼Âýÿÿÿÿ8Ã¯à‘í.
+r	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÏðõÿÿÿÿÿ8£øèéì.
+`
+java:S1854">Remove this useless assignment to local variable "WhiteRook1".(›ú©öúÿÿÿÿ8Ã¯à‘í.
+m	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¡Í¥8Ã¯à‘í.
+l	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢®À"8ì»öäã.
+]
+java:S1854"@Remove this useless assignment to local variable "WhiteKnight1".(ò–ÿƒ8Ã¯à‘í.
+]
+java:S1854,"@Remove this useless assignment to local variable "BlackKnight1".(Ìì“8Ã¯à‘í.
+Y
+java:S1854""=Remove this useless assignment to local variable "WhiteKing".(Å„8Ã¯à‘í.
+m	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÃèñ8Ã¯à‘í.
+[
+java:S18542">Remove this useless assignment to local variable "BlackRook2".(Û•ôõ8Ã¯à‘í.
+L
+java:S1481+"/Remove this unused "BlackRook1" local variable.(îèÔÀ8Ã¯à‘í.
+M
+java:S14811"1Remove this unused "BlackKnight2" local variable.(¸”™D8Ã¯à‘í.
+r	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÏðõÿÿÿÿÿ8£øèéì.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò–ÿƒ8Ã¯à‘í.
+S
+java:S1481 "1Remove this unused "WhiteBishop1" local variable.(ÄÌÇ¤ýÿÿÿÿ8Ã¯à‘í.
+]
+java:S1854$"@Remove this useless assignment to local variable "WhiteKnight2".(ÈÃèñ8Ã¯à‘í.
+L
+java:S1481!"/Remove this unused "WhiteQueen" local variable.(±µÙ°8Ã¯à‘í.
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìì“8Ã¯à‘í.
+[
+java:S1854+">Remove this useless assignment to local variable "BlackRook1".(îèÔÀ8Ã¯à‘í.
+m	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÂµ‹8Ã¯à‘í.
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜½™ñúÿÿÿÿ8Ã¯à‘í.
+r	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÖÈëýÿÿÿÿ8’Ðäã.
+b
+java:S18540"@Remove this useless assignment to local variable "BlackBishop2".(´ÇÑôûÿÿÿÿ8Ã¯à‘í.
+Q
+java:S1481/"/Remove this unused "BlackQueen" local variable.(µºÑ˜úÿÿÿÿ8Ã¯à‘í.
+K
+java:S14815")Remove this unused "pawn" local variable.(ž§µ¥ýÿÿÿÿ8Ã¯à‘í.
+M
+java:S1481-"1Remove this unused "BlackBishop1" local variable.(Âî£:8Ã¯à‘í.
+[
+java:S1854%">Remove this useless assignment to local variable "WhiteRook2".(šÂµ‹8Ã¯à‘í.
+P
+java:S1128".Remove this unused import 'Enums.PlayerColor'.(ëÉ¨ßøÿÿÿÿ8Ã¯à‘í.
+m	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îèÔÀ8Ã¯à‘í.
+l	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢®À"8ì»öäã.
+_
+java:S1854."=Remove this useless assignment to local variable "BlackKing".(˜½™ñúÿÿÿÿ8Ã¯à‘í.
+b
+java:S1854 "@Remove this useless assignment to local variable "WhiteBishop1".(ÄÌÇ¤ýÿÿÿÿ8Ã¯à‘í.
+N
+java:S1481$"1Remove this unused "WhiteKnight2" local variable.(ÈÃèñ8Ã¯à‘í.
+L
+java:S14812"/Remove this unused "BlackRook2" local variable.(Û•ôõ8Ã¯à‘í.
+S
+java:S14810"1Remove this unused "BlackBishop2" local variable.(´ÇÑôûÿÿÿÿ8Ã¯à‘í.
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÇÑôûÿÿÿÿ8Ã¯à‘í.
+J
+java:S1481"".Remove this unused "WhiteKing" local variable.(Å„8Ã¯à‘í.
+l	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âî£:8Ã¯à‘í.
+]
+java:S1854#"@Remove this useless assignment to local variable "WhiteBishop2".(¿¡Í¥8Ã¯à‘í.
+[
+java:S1854!">Remove this useless assignment to local variable "WhiteQueen".(±µÙ°8Ã¯à‘í.
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±µÙ°8Ã¯à‘í.
+\
+java:S1854-"@Remove this useless assignment to local variable "BlackBishop1".(Âî£:8Ã¯à‘í.
+Z
+java:S18545"8Remove this useless assignment to local variable "pawn".(ž§µ¥ýÿÿÿÿ8Ã¯à‘í.
+Q
+java:S1481"/Remove this unused "WhiteRook1" local variable.(›ú©öúÿÿÿÿ8Ã¯à‘í.
+N
+java:S1481"1Remove this unused "WhiteKnight1" local variable.(ò–ÿƒ8Ã¯à‘í.
+\
+java:S18541"@Remove this useless assignment to local variable "BlackKnight2".(¸”™D8Ã¯à‘í.

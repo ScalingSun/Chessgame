@@ -1,0 +1,82 @@
+[Time: 11:51:16] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 11:51:20] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 11:51:24] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 11:51:28] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 11:56:28] [From: onError()] client with Session ID 1 got the error: org.eclipse.jetty.websocket.api.CloseException: java.util.concurrent.TimeoutException: Idle timeout expired: 300001/300000 ms
+[Time: 11:56:28] [From: onClose()] client with Session ID 2 disconnected.
+[Time: 11:56:28] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 12:00:00] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:00:03] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:00:07] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:20] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:22] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:23] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:24] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:25] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:25] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:25] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:25] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:26] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:26] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:26] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:26] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:26] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:00:27] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:04:56] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:05:08] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:05:12] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:13] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:16] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:17] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:17] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:17] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:18] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:18] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:18] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:19] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:19] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:19] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:06:25] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:06:29] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:06:38] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:06:47] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:06:56] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:06:57] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:06:57] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:06:57] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:07:42] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:07:48] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:07:51] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:08:21] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:09:40] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:09:45] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:09:58] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:10:26] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:15:25] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:15:34] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:15:38] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:15:59] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:16:57] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:17:03] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:17:13] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:17:45] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:51:01] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:51:12] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:51:16] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:51:25] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:56:25] [From: onError()] client with Session ID 1 got the error: org.eclipse.jetty.websocket.api.CloseException: java.util.concurrent.TimeoutException: Idle timeout expired: 300001/300000 ms
+[Time: 13:56:25] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 13:56:25] [From: onClose()] client with Session ID 2 disconnected.
+[Time: 13:57:50] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:57:57] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:58:05] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:58:07] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:59:10] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 13:59:24] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:59:32] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:59:45] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:59:47] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:59:52] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 14:04:52] [From: onError()] client with Session ID 2 got the error: org.eclipse.jetty.websocket.api.CloseException: java.util.concurrent.TimeoutException: Idle timeout expired: 300002/300000 ms
+[Time: 14:04:52] [From: onClose()] client with Session ID 2 disconnected.
+[Time: 14:04:52] [From: onClose()] client with Session ID 1 disconnected.

@@ -1,0 +1,27 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·á¦¨üÿÿÿÿ8èİÌåã.
+]	java:S125"<This block of commented-out lines of code should be removed.(¢øß‰øÿÿÿÿ8€ É…æ.
+L
+java:S5411K"*Use the primitive boolean expression here.(½´ã·øÿÿÿÿ8Ê©à„æ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·á¦¨üÿÿÿÿ8èİÌåã.
+L
+java:S5411("*Use the primitive boolean expression here.(•¼´»ûÿÿÿÿ8°˜×„æ.
+L
+java:S5411<"*Use the primitive boolean expression here.(½´ã·øÿÿÿÿ8õßšÀä.
+L
+java:S5411"*Use the primitive boolean expression here.(•¼´»ûÿÿÿÿ8Ä‹“„æ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ´öŠûÿÿÿÿ
+L
+java:S5411B"*Use the primitive boolean expression here.(ÁÿÒüÿÿÿÿ8Àä.
+T
+java:S1135"2Complete the task associated to this TODO comment.(¢øß‰øÿÿÿÿ8‹‚È…æ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(—Ú¥È8°˜×„æ.
+t
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(‘æÏüÿÿÿÿÿ8Ê©à„æ.
+O
+java:S1135"2Complete the task associated to this TODO comment.(—Ú¥È8Ÿ÷Ò„æ.
+Y
+java:S1128	"7Remove this unused import 'javax.xml.transform.Result'.(âÓ¸ûÿÿÿÿ8ŸÿÂ„æ.
+L
+java:S5411Q"*Use the primitive boolean expression here.(ÁÿÒüÿÿÿÿ8Ê©à„æ.

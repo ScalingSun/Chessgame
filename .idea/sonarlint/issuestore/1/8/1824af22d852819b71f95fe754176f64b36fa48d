@@ -1,0 +1,22 @@
+
+z	java:S135^"YReduce the total number of break and continue statements in this loop to use at most one.(ò‹•åúÿÿÿÿ8€¯á½ä.
+G
+java:S5411""*Use the primitive boolean expression here.(òà«ò8€¯á½ä.
+Q
+java:S3740"/Provide the parametrized type for this generic.(î•ë¤ıÿÿÿÿ8¤õŞ½ä.
+z	java:S135G"YReduce the total number of break and continue statements in this loop to use at most one.(ò‹•åúÿÿÿÿ8€¯á½ä.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê†”à8ÛÕÈåã.
+G
+java:S54119"*Use the primitive boolean expression here.(òà«ò8€¯á½ä.
+u
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 105 to the 15 allowed.(Æ™ıÿÿÿÿ8€¯á½ä.
+T
+java:S1135"2Complete the task associated to this TODO comment.(Æ™ıÿÿÿÿ8¥ºä½ä.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ´öŠûÿÿÿÿ
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê†”à8ÛÕÈåã.
+z	java:S1351"YReduce the total number of break and continue statements in this loop to use at most one.(ò‹•åúÿÿÿÿ8€¯á½ä.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ò‹•åúÿÿÿÿ8€¯á½ä.
+G
+java:S5411O"*Use the primitive boolean expression here.(òà«ò8€¯á½ä.
+G
+java:S5411f"*Use the primitive boolean expression here.(òà«ò8€¯á½ä.

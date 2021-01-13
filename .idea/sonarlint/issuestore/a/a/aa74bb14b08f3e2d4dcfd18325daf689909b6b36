@@ -1,0 +1,17 @@
+
+b
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(æ éØ8¬Üð‘í.
+t
+java:S1104
+"WMake ownLocation a static final constant or non-public and provide accessors if needed.(æ éØ8™Ñ¿Œæ.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‹§&8¾²Çäã.
+b
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(¥Š€Ö8¥Ûê‘í.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‹§&8¾²Çäã.
+M
+java:S2065
+"0Remove the "transient" modifier from this field.(æ éØ8¬Üð‘í.
+M
+java:S2065	"0Remove the "transient" modifier from this field.(¥Š€Ö8¥Ûê‘í.
+]	java:S125!"<This block of commented-out lines of code should be removed.(ñø¹¦ùÿÿÿÿ8ñ²Ü½ä.

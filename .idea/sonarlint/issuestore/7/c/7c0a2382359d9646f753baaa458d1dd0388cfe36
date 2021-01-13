@@ -1,0 +1,32 @@
+
+z	java:S135D"YReduce the total number of break and continue statements in this loop to use at most one.(ò‹•åúÿÿÿÿ8™Õù¾ä.
+Q
+java:S3740"/Provide the parametrized type for this generic.(î•ë¤ıÿÿÿÿ8Åå“¾ä.
+z	java:S135X"YReduce the total number of break and continue statements in this loop to use at most one.(ò‹•åúÿÿÿÿ8™Õù¾ä.
+z	java:S135m"YReduce the total number of break and continue statements in this loop to use at most one.(ò‹•åúÿÿÿÿ8™Õù¾ä.
+H
+java:S5411‰"*Use the primitive boolean expression here.(òà«ò8´¢†¿ä.
+H
+java:S5411´"*Use the primitive boolean expression here.(òà«ò8ôá†¿ä.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÄÊÀşÿÿÿÿ8®íÈåã.
+G
+java:S54116"*Use the primitive boolean expression here.(òà«ò8—şú¾ä.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÄÊÀşÿÿÿÿ8®íÈåã.
+o
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 205 to the 15 allowed.(Ô¬ï:8Åå“¾ä.
+G
+java:S5411"*Use the primitive boolean expression here.(òà«ò8™Õù¾ä.
+G
+java:S5411`"*Use the primitive boolean expression here.(òà«ò8ÈÙ…¿ä.
+{	java:S135¬"YReduce the total number of break and continue statements in this loop to use at most one.(ò‹•åúÿÿÿÿ8ôá†¿ä.
+G
+java:S5411K"*Use the primitive boolean expression here.(òà«ò8™Õù¾ä.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ò‹•åúÿÿÿÿ8™Õù¾ä.
+z	java:S135."YReduce the total number of break and continue statements in this loop to use at most one.(ò‹•åúÿÿÿÿ8—şú¾ä.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ´öŠûÿÿÿÿ
+G
+java:S5411t"*Use the primitive boolean expression here.(òà«ò8™Õù¾ä.
+{	java:S135—"YReduce the total number of break and continue statements in this loop to use at most one.(ò‹•åúÿÿÿÿ8´¢†¿ä.
+H
+java:S5411"*Use the primitive boolean expression here.(òà«ò8´¢†¿ä.
+{	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ò‹•åúÿÿÿÿ8´¢†¿ä.

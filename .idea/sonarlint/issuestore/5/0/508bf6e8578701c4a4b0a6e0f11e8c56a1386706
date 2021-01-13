@@ -1,0 +1,41 @@
+
+K
+java:S1604²"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ8¸í“®ç.
+s	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( À‚ºøÿÿÿÿ8¸œ­®ç.
+c
+java:S2147Ú"ECombine this catch with the one at line 344, which has the same body.(ä ¹€8Æ×æ”î.
+m	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¡êI8¸í“®ç.
+~
+java:S1450("aRemove the "opponentPlayerName" field and declare it as a local variable in the relevant methods.(Ş¤¨8Ø”®ç.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ùîÎ8¸œ­®ç.
+r	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¿ª‹şÿÿÿÿ8¶²Öæ.
+r	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š›ğŒùÿÿÿÿ8¸í“®ç.
+d
+java:S2184M"BCast one of the operands of this addition operation to a "double".(•£è³ûÿÿÿÿ8¸í“®ç.
+n	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûõãï8¸œ­®ç.
+c
+java:S2147"ECombine this catch with the one at line 283, which has the same body.(ä ¹€8‰¾©“î.
+S
+java:S1068("6Remove this unused "opponentPlayerName" private field.(Ş¤¨8Ø”®ç.
+r	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ãı‡şÿÿÿÿ8¸í“®ç.
+r	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š›ğŒùÿÿÿÿ8¸í“®ç.
+¤
+java:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Í×šÉÿÿÿÿÿ8¸í“®ç.
+d
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‰¾©“î.
+m	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¡êI8¸í“®ç.
+s	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( À‚ºøÿÿÿÿ8¸œ­®ç.
+d
+java:S2142Ú"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Æ×æ”î.
+n	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûõãï8¸œ­®ç.
+Ÿ
+java:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹åÂ¹8¸í“®ç.
+y
+java:S1450#"WRemove the "playerNr" field and declare it as a local variable in the relevant methods.(™ıì“úÿÿÿÿ8áº’®ç.
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8¶²Öæ.
+r	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¦¦Şùÿÿÿÿ8¸í“®ç.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÕŒüÿÿÿÿ8—ÓÓâ.
+r	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¦¦Şùÿÿÿÿ8¸í“®ç.
+N
+java:S1068#",Remove this unused "playerNr" private field.(™ıì“úÿÿÿÿ8áº’®ç.

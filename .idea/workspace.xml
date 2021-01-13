@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24b65834-7cc7-4066-8c40-140cb4a5fcef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/508bf6e8578701c4a4b0a6e0f11e8c56a1386706" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/508bf6e8578701c4a4b0a6e0f11e8c56a1386706" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82e04321de176592fbc910cc285d2f7ce842ab19" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82e04321de176592fbc910cc285d2f7ce842ab19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac9741a0393930d89378099f3274bebec3272799" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac9741a0393930d89378099f3274bebec3272799" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4a0a7763fca408d0ea7df84fd5aab9ff896b265" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4a0a7763fca408d0ea7df84fd5aab9ff896b265" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f59d0fa3f908d1d7349a5fab97686006b820e081" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f59d0fa3f908d1d7349a5fab97686006b820e081" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAPI/src/main/java/objects/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAPI/src/main/java/objects/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessUI/src/main/java/Game/ChessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChessUI/src/main/java/Game/ChessGame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="302" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kmQFAz7ik8a2RBJQ1GbF7fbHo1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pts33_playboard" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15234375" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\timwi\IdeaProjects\ChessGame\ChessUI\src\main\resources\images" />
+      <recent name="C:\Users\timwi\IdeaProjects\ChessGame\ChessUI\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\timwi\IdeaProjects\ChessGame\ChessShared\src\main\java" />
+      <recent name="C:\Users\timwi\IdeaProjects\ChessGame\ChessServer\src\main\java" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn sonar:sonar \   -Dsonar.projectKey=bigidea \   -Dsonar.host.url=http://localhost:9000 \   -Dsonar.login=bb74beb207390e03569b85c57dee2bd2704f263f" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RestServer">
+    <configuration name="GUI" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="UI.ChessGUI" />
+      <module name="ChessUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.RestServer" />
+      <module name="ChessAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="serverside.Aserver" />
+      <module name="ChessServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategoApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI.StrategoApplication" />
+      <module name="ChessUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChessUI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RookTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GUI" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.StrategoApplication" />
+      <item itemvalue="Application.RestServer" />
+      <item itemvalue="JUnit.RookTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RestServer" />
+        <item itemvalue="JUnit.RookTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24b65834-7cc7-4066-8c40-140cb4a5fcef" name="Default Changelist" comment="" />
+      <created>1606303180714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606303180714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1610027829975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1610027829975" />
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608206461492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608206461492" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1610119345130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610119345130" />
+    <state x="690" y="297" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1606307414778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="297" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606307414778" />
+    <state x="689" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606310883922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606310883922" />
+    <state width="439" height="466" key="DebuggerActiveHint" timestamp="1610118798881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="439" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1610118798881" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1610439847754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610439847754" />
+    <state width="1921" height="236" key="GridCell.Tab.0.bottom" timestamp="1610527555796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610527555796" />
+    <state width="1921" height="236" key="GridCell.Tab.0.center" timestamp="1610527555796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610527555796" />
+    <state width="1921" height="236" key="GridCell.Tab.0.left" timestamp="1610527555796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610527555796" />
+    <state width="1921" height="236" key="GridCell.Tab.0.right" timestamp="1610527555796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610527555796" />
+    <state width="1921" height="373" key="GridCell.Tab.1.bottom" timestamp="1610119580179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="373" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610119580179" />
+    <state width="1921" height="373" key="GridCell.Tab.1.center" timestamp="1610119580178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="373" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610119580178" />
+    <state width="1921" height="373" key="GridCell.Tab.1.left" timestamp="1610119580178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="373" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610119580178" />
+    <state width="1921" height="373" key="GridCell.Tab.1.right" timestamp="1610119580179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="373" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610119580179" />
+    <state x="490" y="176" key="Maven.ArtifactSearchDialog" timestamp="1606918560134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="176" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606918560134" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1610361434013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610361434013" />
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610452349326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610452349326" />
+    <state x="342" y="216" key="new project wizard" timestamp="1610021437943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="216" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1610021437943" />
+    <state x="702" y="149" key="refactoring.ChangeSignatureDialog" timestamp="1607336089983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="149" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607336089983" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1610450853257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610450853257" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609762628644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609762628644" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ChessShared/src/main/java/Pieces/Rook.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ChessUI/src/main/java/Game/ChessGame.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="YaxisPossible" />
+        <watch expression="result.get(1)" />
+        <watch expression="result.get(7)" />
+        <watch expression="result.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ChessGame$GUI.ic" NAME="GUI Coverage Results" MODIFIED="1609932365170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

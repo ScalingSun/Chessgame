@@ -1,0 +1,16 @@
+
+G
+java:S5411("*Use the primitive boolean expression here.(ÃÁÙ·8”ß©‹æ.
+G
+java:S5411"*Use the primitive boolean expression here.(ÃÁÙ·8ñµ§‹æ.
+O
+java:S1135"2Complete the task associated to this TODO comment.(‡¬¤›8ÜĞ¬½ä.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¨íşÿÿÿÿ8üğ ëã.
+G
+java:S5411B"*Use the primitive boolean expression here.(ÃÁÙ·8ß‹ª‹æ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 83 to the 15 allowed.(‡¬¤›8ÊÍºä.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ´öŠûÿÿÿÿ
+G
+java:S54115"*Use the primitive boolean expression here.(ÃÁÙ·8ù©‹æ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¨íşÿÿÿÿ8üğ ëã.

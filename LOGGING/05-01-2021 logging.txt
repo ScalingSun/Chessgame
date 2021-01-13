@@ -1,0 +1,232 @@
+[Time: 11:33:03] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 11:33:10] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 11:33:17] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 11:33:19] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 11:33:22] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 11:35:31] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 11:35:37] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 11:35:42] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 11:35:44] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 11:35:55] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 11:38:02] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 11:38:06] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 11:38:15] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 11:38:17] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 11:38:27] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":5,\"newY\":2}","playerNr":0}
+[Time: 11:39:18] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 11:39:22] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 11:39:27] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 11:39:29] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 11:39:41] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":5,\"newY\":2}","playerNr":0}
+[Time: 11:47:42] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 11:47:47] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 11:47:55] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 11:47:57] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 11:49:29] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":1,\"newX\":0,\"newY\":3}","playerNr":0}
+[Time: 11:55:11] [From: onClose()] client with Session ID 2 disconnected.
+[Time: 11:55:11] [From: onError()] client with Session ID 2 got the error: org.eclipse.jetty.io.EofException
+[Time: 11:55:11] [From: onError()] client with Session ID 1 got the error: java.util.ConcurrentModificationException
+[Time: 12:05:09] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:05:16] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:05:21] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:27] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:05:40] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":1,\"newX\":0,\"newY\":3}","playerNr":0}
+[Time: 12:05:40] [From: onError()] client with Session ID 1 got the error: java.lang.RuntimeException: Cannot call method public void serverside.ServerPoint#onText(java.lang.String, javax.websocket.Session) with args: [java.lang.String, org.eclipse.jetty.websocket.jsr356.JsrSession]
+[Time: 12:06:33] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 12:07:30] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:07:36] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:07:37] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:07:40] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:07:44] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":1,\"newX\":0,\"newY\":3}","playerNr":0}
+[Time: 12:07:44] [From: onError()] client with Session ID 1 got the error: java.lang.RuntimeException: Cannot call method public void serverside.ServerPoint#onText(java.lang.String, javax.websocket.Session) with args: [java.lang.String, org.eclipse.jetty.websocket.jsr356.JsrSession]
+[Time: 12:09:01] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:09:05] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:09:06] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:09:08] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:09:12] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":1,\"newX\":0,\"newY\":3}","playerNr":0}
+[Time: 12:09:53] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":1,\"newX\":1,\"newY\":3}","playerNr":0}
+[Time: 12:11:23] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:11:27] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:11:52] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:11:54] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:11:58] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":1,\"newX\":0,\"newY\":3}","playerNr":0}
+[Time: 12:12:10] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":1,\"newX\":1,\"newY\":3}","playerNr":0}
+[Time: 12:12:55] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 12:12:59] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:13:00] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 12:13:02] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 12:13:06] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":1,\"newX\":0,\"newY\":3}","playerNr":0}
+[Time: 12:18:06] [From: onError()] client with Session ID 2 got the error: org.eclipse.jetty.websocket.api.CloseException: java.util.concurrent.TimeoutException: Idle timeout expired: 300001/300000 ms
+[Time: 12:18:06] [From: onClose()] client with Session ID 2 disconnected.
+[Time: 12:18:06] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 13:02:35] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:02:39] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:02:40] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:02:44] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:02:47] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":1,\"newX\":0,\"newY\":3}","playerNr":0}
+[Time: 13:07:47] [From: onError()] client with Session ID 1 got the error: org.eclipse.jetty.websocket.api.CloseException: java.util.concurrent.TimeoutException: Idle timeout expired: 300001/300000 ms
+[Time: 13:07:47] [From: onClose()] client with Session ID 2 disconnected.
+[Time: 13:07:47] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 13:16:01] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:16:06] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:16:07] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:16:10] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:16:18] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":1,\"newX\":0,\"newY\":3}","playerNr":0}
+[Time: 13:19:55] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:20:02] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:20:04] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:20:08] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:20:12] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":1,\"newX\":0,\"newY\":3}","playerNr":0}
+[Time: 13:20:17] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":4}","playerNr":1}
+[Time: 13:20:59] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":7,\"newX\":5,\"newY\":5}","playerNr":1}
+[Time: 13:21:28] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":1,\"newX\":6,\"newY\":3}","playerNr":0}
+[Time: 13:25:30] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 13:25:46] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":7,\"newX\":7,\"newY\":5}","playerNr":1}
+[Time: 13:25:46] [From: onError()] client with Session ID 2 got the error: java.lang.NullPointerException
+[Time: 13:25:47] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":7,\"newX\":7,\"newY\":5}","playerNr":1}
+[Time: 13:25:47] [From: onError()] client with Session ID 2 got the error: java.lang.NullPointerException
+[Time: 13:25:55] [From: onText()] {"type":"MOVE","message":"{\"currentX\":7,\"currentY\":6,\"newX\":7,\"newY\":4}","playerNr":1}
+[Time: 13:26:01] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":6,\"newX\":6,\"newY\":4}","playerNr":1}
+[Time: 13:26:04] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":6,\"newX\":5,\"newY\":4}","playerNr":1}
+[Time: 13:27:38] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:27:43] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:27:46] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:27:49] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:27:52] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 13:27:54] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 13:28:12] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":4,\"newY\":5}","playerNr":1}
+[Time: 13:28:20] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":2}","playerNr":0}
+[Time: 13:28:20] [From: onError()] client with Session ID 2 got the error: java.lang.NullPointerException
+[Time: 13:28:20] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":2}","playerNr":0}
+[Time: 13:28:20] [From: onError()] client with Session ID 2 got the error: java.lang.NullPointerException
+[Time: 13:28:20] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":2}","playerNr":0}
+[Time: 13:28:20] [From: onError()] client with Session ID 2 got the error: java.lang.NullPointerException
+[Time: 13:28:21] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":2}","playerNr":0}
+[Time: 13:28:21] [From: onError()] client with Session ID 2 got the error: java.lang.NullPointerException
+[Time: 13:28:37] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":1,\"newX\":1,\"newY\":3}","playerNr":0}
+[Time: 13:28:43] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":1,\"newX\":2,\"newY\":3}","playerNr":0}
+[Time: 13:28:45] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":4}","playerNr":1}
+[Time: 13:28:47] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":5}","playerNr":1}
+[Time: 13:28:47] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:28:48] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":5}","playerNr":1}
+[Time: 13:28:48] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:29:28] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":6,\"newX\":5,\"newY\":4}","playerNr":1}
+[Time: 13:29:31] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":1,\"newX\":5,\"newY\":3}","playerNr":0}
+[Time: 13:29:39] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":1,\"newX\":5,\"newY\":2}","playerNr":0}
+[Time: 13:29:39] [From: onError()] client with Session ID 2 got the error: java.lang.NullPointerException
+[Time: 13:29:46] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 13:29:51] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":7,\"newY\":4}","playerNr":1}
+[Time: 13:29:51] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:29:59] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":2,\"newY\":5}","playerNr":1}
+[Time: 13:29:59] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:30:02] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":2,\"newY\":5}","playerNr":1}
+[Time: 13:30:02] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:30:03] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":0,\"newY\":3}","playerNr":1}
+[Time: 13:30:03] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:30:05] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":1,\"newY\":4}","playerNr":1}
+[Time: 13:30:05] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:30:06] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":6,\"newY\":5}","playerNr":1}
+[Time: 13:30:06] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:30:07] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":5,\"newY\":6}","playerNr":1}
+[Time: 13:30:07] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:30:08] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":3,\"newY\":6}","playerNr":1}
+[Time: 13:30:08] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:30:08] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":4,\"newY\":6}","playerNr":1}
+[Time: 13:30:08] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:30:09] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":4,\"newY\":7}","playerNr":1}
+[Time: 13:30:09] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:30:16] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":1,\"newX\":6,\"newY\":3}","playerNr":0}
+[Time: 13:33:33] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 13:33:36] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 13:33:40] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:33:42] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 13:33:45] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":5,\"newY\":2}","playerNr":0}
+[Time: 13:33:50] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":7,\"newX\":5,\"newY\":5}","playerNr":1}
+[Time: 13:33:57] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":6,\"newX\":5,\"newY\":4}","playerNr":1}
+[Time: 13:34:10] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":7,\"newY\":2}","playerNr":0}
+[Time: 13:34:10] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:34:10] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":7,\"newY\":2}","playerNr":0}
+[Time: 13:34:10] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:34:11] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":7,\"newY\":2}","playerNr":0}
+[Time: 13:34:11] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:34:15] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":7,\"newY\":2}","playerNr":0}
+[Time: 13:34:15] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:34:18] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 13:34:29] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":2}","playerNr":0}
+[Time: 13:34:29] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:34:31] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 13:34:33] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":2}","playerNr":0}
+[Time: 13:34:33] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 13:34:35] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":7,\"newY\":4}","playerNr":1}
+[Time: 13:34:40] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":6,\"newY\":5}","playerNr":1}
+[Time: 13:34:40] [From: onError()] client with Session ID 2 got the error: java.lang.NullPointerException
+[Time: 13:34:49] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":6,\"newX\":6,\"newY\":5}","playerNr":1}
+[Time: 13:34:57] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 13:34:59] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":6,\"newX\":3,\"newY\":4}","playerNr":1}
+[Time: 13:35:00] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":6,\"newX\":2,\"newY\":4}","playerNr":1}
+[Time: 13:35:01] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":6,\"newX\":1,\"newY\":4}","playerNr":1}
+[Time: 13:35:02] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":6,\"newX\":0,\"newY\":4}","playerNr":1}
+[Time: 13:35:04] [From: onText()] {"type":"MOVE","message":"{\"currentX\":0,\"currentY\":7,\"newX\":0,\"newY\":5}","playerNr":1}
+[Time: 13:35:05] [From: onText()] {"type":"MOVE","message":"{\"currentX\":1,\"currentY\":7,\"newX\":2,\"newY\":5}","playerNr":1}
+[Time: 13:35:06] [From: onText()] {"type":"MOVE","message":"{\"currentX\":2,\"currentY\":7,\"newX\":4,\"newY\":5}","playerNr":1}
+[Time: 13:35:07] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":7,\"newX\":4,\"newY\":6}","playerNr":1}
+[Time: 13:35:08] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":7,\"newX\":6,\"newY\":6}","playerNr":1}
+[Time: 13:35:10] [From: onText()] {"type":"MOVE","message":"{\"currentX\":7,\"currentY\":7,\"newX\":1,\"newY\":7}","playerNr":1}
+[Time: 13:35:17] [From: onText()] {"type":"MOVE","message":"{\"currentX\":7,\"currentY\":6,\"newX\":7,\"newY\":5}","playerNr":1}
+[Time: 13:40:17] [From: onError()] client with Session ID 1 got the error: org.eclipse.jetty.websocket.api.CloseException: java.util.concurrent.TimeoutException: Idle timeout expired: 300001/300000 ms
+[Time: 13:40:17] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 13:40:17] [From: onClose()] client with Session ID 2 disconnected.
+[Time: 14:22:37] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 14:22:44] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 14:22:46] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:22:48] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:22:52] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 14:23:50] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 14:23:55] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 14:23:57] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:23:59] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:24:03] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 14:24:05] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 14:24:26] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":6,\"newX\":5,\"newY\":4}","playerNr":1}
+[Time: 14:24:32] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":5,\"newY\":2}","playerNr":0}
+[Time: 14:25:18] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":0,\"newX\":7,\"newY\":2}","playerNr":0}
+[Time: 14:25:18] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 14:25:24] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 14:25:26] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":5}","playerNr":1}
+[Time: 14:25:26] [From: onError()] client with Session ID 2 got the error: java.lang.NullPointerException
+[Time: 14:25:46] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":7,\"newX\":5,\"newY\":5}","playerNr":1}
+[Time: 14:25:50] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":7,\"newX\":7,\"newY\":5}","playerNr":1}
+[Time: 14:25:50] [From: onError()] client with Session ID 2 got the error: java.lang.NullPointerException
+[Time: 14:27:41] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 14:32:41] [From: onError()] client with Session ID 1 got the error: org.eclipse.jetty.websocket.api.CloseException: java.util.concurrent.TimeoutException: Idle timeout expired: 300001/300000 ms
+[Time: 14:32:41] [From: onClose()] client with Session ID 1 disconnected.
+[Time: 14:50:49] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 14:50:53] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 14:51:14] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:51:14] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:51:34] [From: onConnect()] new client with Session ID 1 connected.
+[Time: 14:51:43] [From: onConnect()] new client with Session ID 2 connected.
+[Time: 14:51:51] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:51:53] [From: onText()] {"type":"REGISTER","message":"testname","playerNr":5}
+[Time: 14:52:01] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":1,\"newX\":3,\"newY\":3}","playerNr":0}
+[Time: 14:52:02] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":6,\"newX\":4,\"newY\":4}","playerNr":1}
+[Time: 14:53:25] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":1,\"newX\":5,\"newY\":3}","playerNr":0}
+[Time: 14:53:28] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":6,\"newX\":5,\"newY\":4}","playerNr":1}
+[Time: 14:53:30] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":1,\"newX\":4,\"newY\":3}","playerNr":0}
+[Time: 14:53:53] [From: onText()] {"type":"MOVE","message":"{\"currentX\":4,\"currentY\":7,\"newX\":7,\"newY\":4}","playerNr":1}
+[Time: 14:53:56] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":7,\"newY\":4}","playerNr":0}
+[Time: 14:54:01] [From: onText()] {"type":"MOVE","message":"{\"currentX\":5,\"currentY\":7,\"newX\":4,\"newY\":6}","playerNr":1}
+[Time: 14:54:16] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":1,\"newX\":6,\"newY\":3}","playerNr":0}
+[Time: 14:54:20] [From: onText()] {"type":"MOVE","message":"{\"currentX\":6,\"currentY\":7,\"newX\":5,\"newY\":5}","playerNr":1}
+[Time: 14:54:23] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":5,\"newY\":2}","playerNr":0}
+[Time: 14:54:24] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 14:54:25] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":4,\"newY\":1}","playerNr":0}
+[Time: 14:54:25] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 14:54:27] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":3,\"newY\":0}","playerNr":0}
+[Time: 14:54:27] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 14:54:28] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":3,\"newY\":1}","playerNr":0}
+[Time: 14:54:28] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 14:54:29] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":3,\"newY\":2}","playerNr":0}
+[Time: 14:54:29] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
+[Time: 14:54:32] [From: onText()] {"type":"MOVE","message":"{\"currentX\":3,\"currentY\":0,\"newX\":3,\"newY\":2}","playerNr":0}
+[Time: 14:54:32] [From: onError()] client with Session ID 1 got the error: java.lang.NullPointerException
