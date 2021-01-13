@@ -151,9 +151,9 @@ public class ChessGame implements IChessGame {
 
         HttpClient c = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
-                .uri(URI.create("http://localhost:8090/api/users/"))
+                .uri(URI.create("http://localhost:8090/api/users/" + u.getName() + "&" + u.getPassword()))
                 .setHeader("Content-Type", "application/json")
-                .GET(HttpRequest.BodyPublishers.ofString(g.toJson(u)))
+                .GET()
                 .build();
 
         HttpResponse<String> response = c.send(request,

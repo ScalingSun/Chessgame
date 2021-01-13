@@ -48,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pts33_playboard" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15234375" />
@@ -74,7 +75,7 @@
       <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.RestServer">
+  <component name="RunManager" selected="Application.GUI">
     <configuration name="GUI" type="Application" factoryName="Application" singleton="false">
       <option name="MAIN_CLASS_NAME" value="UI.ChessGUI" />
       <module name="ChessUI" />
@@ -160,6 +161,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606310883922" />
+    <state x="608" y="115" key="CommitChangelistDialog2" timestamp="1610532336415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="608" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610532336415" />
     <state width="439" height="466" key="DebuggerActiveHint" timestamp="1610118798881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -168,22 +173,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610439847754" />
-    <state width="1921" height="236" key="GridCell.Tab.0.bottom" timestamp="1610527555796">
+    <state width="1921" height="236" key="GridCell.Tab.0.bottom" timestamp="1610532320655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610527555796" />
-    <state width="1921" height="236" key="GridCell.Tab.0.center" timestamp="1610527555796">
+    <state width="1921" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610532320655" />
+    <state width="1921" height="236" key="GridCell.Tab.0.center" timestamp="1610532320654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610527555796" />
-    <state width="1921" height="236" key="GridCell.Tab.0.left" timestamp="1610527555796">
+    <state width="1921" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610532320654" />
+    <state width="1921" height="236" key="GridCell.Tab.0.left" timestamp="1610532320654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610527555796" />
-    <state width="1921" height="236" key="GridCell.Tab.0.right" timestamp="1610527555796">
+    <state width="1921" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610532320654" />
+    <state width="1921" height="236" key="GridCell.Tab.0.right" timestamp="1610532320655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610527555796" />
+    <state width="1921" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610532320655" />
     <state width="1921" height="373" key="GridCell.Tab.1.bottom" timestamp="1610119580179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

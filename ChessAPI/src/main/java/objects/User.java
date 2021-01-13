@@ -51,16 +51,15 @@ public class User {
         return "user " + user.getName() + " has been added.";
     }
     @GET
-    @Path("/login")
-    @Produces(MediaType.APPLICATION_JSON)
-    public String GetAccount(DTOUser u) {
+    @Path("login/{param1},{param2}")
+    public String GetAccount(@PathParam("param1") String username, @PathParam("param2") String password) {
         DTOUser resultU = new DTOUser("Not found.", "Not found.");
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");
             Connection con= DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/s3","root","banaanmysql1234");
             Statement stmt=con.createStatement();
-            ResultSet rs=stmt.executeQuery("select * from users where username = '" + u.getName() + "'and userpassword = '"+ u.getPassword() + "'");
+            ResultSet rs=stmt.executeQuery("select * from users where username = '" + username + "'and userpassword = '"+ password + "'");
             while(rs.next())
                 resultU = new DTOUser(rs.getInt(1),rs.getString(2),rs.getString(3));
             con.close();
