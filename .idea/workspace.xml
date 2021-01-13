@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24b65834-7cc7-4066-8c40-140cb4a5fcef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/508bf6e8578701c4a4b0a6e0f11e8c56a1386706" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/508bf6e8578701c4a4b0a6e0f11e8c56a1386706" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82e04321de176592fbc910cc285d2f7ce842ab19" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82e04321de176592fbc910cc285d2f7ce842ab19" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac9741a0393930d89378099f3274bebec3272799" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac9741a0393930d89378099f3274bebec3272799" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4a0a7763fca408d0ea7df84fd5aab9ff896b265" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4a0a7763fca408d0ea7df84fd5aab9ff896b265" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f59d0fa3f908d1d7349a5fab97686006b820e081" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f59d0fa3f908d1d7349a5fab97686006b820e081" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessAPI/src/main/java/objects/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAPI/src/main/java/objects/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessUI/src/main/java/Game/ChessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChessUI/src/main/java/Game/ChessGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessUI/target/surefire-reports/RookTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ChessUI/target/surefire-reports/RookTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessUI/target/surefire-reports/TEST-RookTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChessUI/target/surefire-reports/TEST-RookTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pts33_playboard" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ChessgameFromGit" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15234375" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -73,9 +68,10 @@
     <option name="myCommands">
       <command value="mvn sonar:sonar \   -Dsonar.projectKey=bigidea \   -Dsonar.host.url=http://localhost:9000 \   -Dsonar.login=bb74beb207390e03569b85c57dee2bd2704f263f" />
       <command value="mvn install" />
+      <command value="mvn test" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.GUI">
+  <component name="RunManager" selected="Application.RestServer">
     <configuration name="GUI" type="Application" factoryName="Application" singleton="false">
       <option name="MAIN_CLASS_NAME" value="UI.ChessGUI" />
       <module name="ChessUI" />
@@ -138,7 +134,26 @@
       <option name="presentableId" value="Default" />
       <updated>1606303180714</updated>
     </task>
+    <task id="LOCAL-00001" summary="post --&gt; get">
+      <created>1610532337806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610532337807</updated>
+    </task>
+    <task id="LOCAL-00002" summary="post --&gt; get">
+      <created>1610533229096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610533229096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="post --&gt; get" />
+    <option name="LAST_COMMIT_MESSAGE" value="post --&gt; get" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Project_Structure" timestamp="1610027829975">
@@ -161,34 +176,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606310883922" />
-    <state x="608" y="115" key="CommitChangelistDialog2" timestamp="1610532336415">
+    <state x="608" y="115" key="CommitChangelistDialog2" timestamp="1610542529361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="608" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610532336415" />
+    <state x="608" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610542529361" />
     <state width="439" height="466" key="DebuggerActiveHint" timestamp="1610118798881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="439" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1610118798881" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1610439847754">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1610533591178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610439847754" />
-    <state width="1921" height="236" key="GridCell.Tab.0.bottom" timestamp="1610532320655">
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610533591178" />
+    <state width="1921" height="465" key="GridCell.Tab.0.bottom" timestamp="1610542548438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610532320655" />
-    <state width="1921" height="236" key="GridCell.Tab.0.center" timestamp="1610532320654">
+    <state width="1921" height="465" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610542548438" />
+    <state width="1921" height="465" key="GridCell.Tab.0.center" timestamp="1610542548437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610532320654" />
-    <state width="1921" height="236" key="GridCell.Tab.0.left" timestamp="1610532320654">
+    <state width="1921" height="465" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610542548437" />
+    <state width="1921" height="465" key="GridCell.Tab.0.left" timestamp="1610542548437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610532320654" />
-    <state width="1921" height="236" key="GridCell.Tab.0.right" timestamp="1610532320655">
+    <state width="1921" height="465" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610542548437" />
+    <state width="1921" height="465" key="GridCell.Tab.0.right" timestamp="1610542548438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610532320655" />
+    <state width="1921" height="465" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610542548438" />
     <state width="1921" height="373" key="GridCell.Tab.1.bottom" timestamp="1610119580179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -225,10 +240,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="702" y="149" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607336089983" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1610450853257">
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1610542428227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610450853257" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610542428227" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609762628644">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -246,6 +261,11 @@
           <url>file://$PROJECT_DIR$/ChessUI/src/main/java/Game/ChessGame.java</url>
           <line>122</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ChessAPI/src/main/java/objects/User.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
