@@ -1,6 +1,6 @@
 language: java
 sudo: false
+install: - mvn -N io.takari:maven:wrapper -Dmaven=${MAVEN_VERSION}
 script:
   - java --version
-  - ./mvnw clean install
-  - ./mvnw test
+  - mvn test -B
