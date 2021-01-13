@@ -1,12 +1,6 @@
 language: java
 jdk:
 - oraclejdk11
-services:
-- docker
-env:
-  matrix:
-  - MAVEN_VERSION=3.3.9
-  addons:
  install:
 - mvn -N io.takari:maven:wrapper -Dmaven=${MAVEN_VERSION}
 script:
